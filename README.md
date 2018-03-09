@@ -1,5 +1,5 @@
-## Jets Project
+# Jets Project
 
-# Week 2 Homework for Skill Distillery
+## Week 2 Homework for Skill Distillery
 
 - Description:
