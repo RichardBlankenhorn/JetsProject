@@ -89,11 +89,11 @@ public abstract class Jet {
 
 	@Override
 	public String toString() {
-		return "Jet [model=" + model + ", speed=" + speed + ", range=" + range + ", price=" + price + "]";
+		return "Model = " + model + ", Speed = " + speed + " MPH, Range = " + range + " Miles, Price = $" + price + ".";
 	}
 
 	public void fly() {
-		System.out.println(this.toString());
+		//System.out.println(this.toString());
 		System.out.println("The " + model + " jet can fly for approximately " + (range / speed) + " hours");
 	}
 
