@@ -21,7 +21,7 @@ public class JetsApplication {
 	}
 
 	// This method is called from MAIN and starts the application.
-	// Several Jets are created and added to the AirField (airField)
+	// Several Jets are created and added to the AirField.
     // The user is continuously prompted to make selections until they exit the program
 	private void launch() {
 		
